@@ -1,0 +1,26 @@
+body{
+    background-color: #333333;
+    text-align: center;
+}
+
+h1,h2 {
+    color: gray;
+    font-family: 'Jura',sans-serif;
+}
+h1 {
+    font-size: 112px;
+    width: 150px;
+    height: 150px;
+    border: 10px solid gray;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+h2 {
+    font-size: 56px;
+}
+h3 {
+    color: white;
+}
+a {
+    color: white;
+}
